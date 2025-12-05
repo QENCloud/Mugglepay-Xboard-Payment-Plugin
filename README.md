@@ -19,7 +19,7 @@ Register a MugglePay merchant account
 - Fill in the following information:
   - Display Name: Customize as needed (e.g., "USDT Payment", "Crypto Payment")
   - Icon URL: Optional custom icon link
-  - Notification Domain: Your XBoard panel domain (e.g., https://panel.example.com)
+  - Notification Domain: Your XBoard panel domain (e.g., https://dash.qencloud.com)
   - Payment Gateway: Select mugglepay
   - MugglePay App Secret: Paste the App Secret you just created in step 2
 - Save and test with a small-amount order
